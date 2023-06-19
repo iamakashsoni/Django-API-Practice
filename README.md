@@ -40,11 +40,6 @@ python manage.py runserver
 http://localhost:8000/index.html
 ```
 
-
-Feel free to update this README.md file with any additional information specific to your project. Provide instructions for any other important features or functionalities users should know about.
-
-Remember to replace `<repository-url>` and `<project-directory>` with the appropriate values specific to your project.
-
 ## License
 
 [MIT License](LICENSE)
