@@ -4,7 +4,7 @@
 
 1. Clone the repository to your local machine.
 ```shell
-git clone https://github.com/iamakashsoni/apiPractice.git
+git clone https://github.com/iamakashsoni/Django-API-Practice.git
 ```
 
 
